@@ -98,7 +98,7 @@ We reviewed model performance with measures such as **accuracy, precision, recal
 
 ## 👩‍💻 The part I worked on
 
-**Shrouk Ehab Sabry — Deep Learning & AI Models**
+**Deep Learning & AI Models**
 
 My role was focused on the computer vision side of Pearl: working with the image datasets, preprocessing images, building and training the classifiers, and evaluating how the models performed. I especially enjoyed seeing how transfer learning could help tackle an applied image classification problem.
 
@@ -144,7 +144,5 @@ This was a **team graduation project** completed in 2023–2024 at the Faculty o
 
 **Thanks for taking a look at Pearl! 💜**
 
-*Shrouk Ehab Sabry · Deep Learning & AI Models*
 
-<sub>Academic project showcase. The described skin-analysis functionality is educational and is not a medical diagnosis or a replacement for professional dermatological care.</sub>
-</div>
+
